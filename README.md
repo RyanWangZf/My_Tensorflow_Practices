@@ -1,5 +1,7 @@
 # My_Tensorflow_Practices  
-Several runable tutorials based on Tensorflow.  
+Several runable tutorials based on Tensorflow. 
+## py_Builtin_func  
+trial on the built-in functions of Python. 
 ## Numpy_bp  
 tutorials of different Neural Networks based on Numpy (not Tensorflow).
 ## helloTensor.py  
