@@ -9,6 +9,9 @@ A tutorial on python built-in functions.
   
 ## Numpy_Bp  
 A simple NNs based on Numpy.  
+
+## VAE ##
+variational auto-encoder.  
   
 ## Others  
 Some small models.  
